@@ -1,12 +1,16 @@
 # Attacking & Defending the Software Supply Chain
 
-## A High Level Description of a SourceCodeRed Training System
-
 ---
 
 ## Goals of this training
 
 The purpose of this training is to learn about the security posture of a specific software supply chain.   This training is not necessarily to compromise software supply chains, but instead to allow you to learn how a target writes, builds and deploys its applications.   From that insight will come an understanding of the weaknesses and attack vectors available against that target.  Given the right expertise, and time, this might allow you to compromise a targets software supply chain.
+
+## Things you'll need for this workshop
+
+1. Some familiarity with Git
+2. Some experience with CI/CD processes 
+3. Preferably a GitHub account, or you can make one on the day
 
 ## Who is the audience for this course?
 
