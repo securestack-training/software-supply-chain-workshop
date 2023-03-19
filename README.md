@@ -42,3 +42,4 @@ Most importantly, our society now requires highly iterative software development
 
 And this means automation, and automation for software development is delivered via continuous integration and continuous deployment.
 
+https://mica-apartment-180.notion.site/CyberCon-All-your-CI-CD-pipelines-are-belong-to-us-Black-box-techniques-for-attacking-the-softw-d872967a6f6c49418169e6bd5b0e0dbe
